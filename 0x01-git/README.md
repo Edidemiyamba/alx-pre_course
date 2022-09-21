@@ -1,1 +1,1 @@
-improving on git knowledge
+some text for this read me
